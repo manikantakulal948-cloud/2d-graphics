@@ -1,0 +1,66 @@
+Mini Project: 2D Graphics Editor
+
+Prompt 1:
+Create a menu-driven 2D Graphics Editor in C.
+
+Response:
+Generated main menu with options:
+
+1. Add Shape
+2. Delete Shape
+3. Modify Shape
+4. Display Picture
+5. Exit
+
+---
+
+Prompt 2:
+Create graphics.h for a text-based graphics editor with functions for drawing lines, rectangles, triangles, and circles.
+
+Response:
+Generated graphics.h containing canvas definitions and function declarations.
+
+---
+
+Prompt 3:
+Create graphics.c implementing canvas operations and shape drawing functions.
+
+Response:
+Generated graphics.c with:
+
+* clearCanvas()
+* displayCanvas()
+* putPixel()
+* drawLine()
+* drawRectangle()
+* drawTriangle()
+* drawCircle()
+
+---
+
+Prompt 4:
+Create objects.h defining shape structures and function prototypes.
+
+Response:
+Generated Shape structure, ShapeType enum, and function declarations.
+
+---
+
+Prompt 5:
+Create objects.c implementing shape management.
+
+Response:
+Generated functions:
+
+* addShape()
+* deleteShape()
+* modifyShape()
+* redrawAllShapes()
+
+---
+
+Prompt 6:
+Create README.md for the project.
+
+Response:
+Generated project documentation including features, compilation, and execution steps.
